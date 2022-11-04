@@ -122,14 +122,31 @@ const Navbar = () => {
                             tabIndex="0"
                             className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
                         >
-                            <li>
-                                <Link
-                                    to="/user-profile"
-                                    className="font-medium bg-green-50 hover:text-green-600 justify-between"
-                                >
-                                    Profile
-                                </Link>
-                            </li>
+                        <li>
+                            <Link
+                                to="/user-profile"
+                                className="font-medium bg-green-50 hover:text-green-600 justify-between mb-1"
+                            >
+                            name@flowbite.com
+                            </Link>
+                        </li>
+                        <li>
+                            <Link
+                                to="/user-profile"
+                                className="font-medium bg-green-50 hover:text-green-600 justify-between mb-1"
+                            >
+                            Setting
+                            </Link>
+                        </li>
+                        
+                        <li>
+                            <Link
+                                to="/user-profile"
+                                className="font-medium bg-green-50 hover:text-green-600 justify-between mb-1"
+                            >
+                                Profile
+                            </Link>
+                        </li>
 
                             <li>
                                 <button className="inline-flex items-center justify-center whitespace-nowrap rounded-md border border-transparent bg-green-600 px-4 py-2 text-base font-medium text-white shadow-sm ">

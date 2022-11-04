@@ -30,9 +30,10 @@
 
 /* ---------navbar style start*/
 
-.style-header {
-  /* font-family: 'Qwitcher Grypen', cursive; */
-}
+/* .style-header {
+  font-family: 'Qwitcher Grypen', cursive; 
+
+} */
 
 @media screen and (max-width: 640px) {
   .style-header {
