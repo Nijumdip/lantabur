@@ -34,12 +34,19 @@ It's a group project
      => In the  tailwind.config.js  file, the content must be changed inside the  
     module.exports ( content: ["./src/**/*.{html,js}", "./node_modules/flowbite/**/*.js"],   )
 
+   
+6. yarn add react-router-dom@6 
+    => added browserRouter index.js
+
+7. google fonts (https://fonts.google.com/)
+    => added some google font link index.js.
+
 
 
 /-----------------code part---------------/
 
 1. navbar 
-    => flowbite
+    => daisyUi +customize 
 
 
 
