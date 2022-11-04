@@ -75,7 +75,10 @@ const Navbar = () => {
                     </div>
 
                     <div className="sm-logo">
-                        <a className="flex flex-row-reverse items-center style-header justify-center" href="/">
+                        <a
+                            className="flex flex-row-reverse items-center style-header justify-center"
+                            href="/"
+                        >
                             <div className="flex sm:w-52 w-10 font-semibold text-4xl text-green-600">
                                 <img
                                     className="sm:w-20 w-10"
@@ -84,7 +87,6 @@ const Navbar = () => {
                                 />
                                 <h1 className="mt-4 -ml-2">LANTABUR</h1>
                             </div>
-                          
                         </a>
                     </div>
                 </div>
@@ -107,7 +109,6 @@ const Navbar = () => {
                 </div>
 
                 <div className="navbar-end">
-
                     <div className="dropdown dropdown-end">
                         <label
                             tabIndex="0"
@@ -122,36 +123,40 @@ const Navbar = () => {
                             tabIndex="0"
                             className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
                         >
-                        <li>
-                            <Link
-                                to="/user-profile"
-                                className="font-medium bg-green-50 hover:text-green-600 justify-between mb-1"
-                            >
-                            name@flowbite.com
-                            </Link>
-                        </li>
-                        <li>
-                            <Link
-                                to="/user-profile"
-                                className="font-medium bg-green-50 hover:text-green-600 justify-between mb-1"
-                            >
-                            Setting
-                            </Link>
-                        </li>
-                        
-                        <li>
-                            <Link
-                                to="/user-profile"
-                                className="font-medium bg-green-50 hover:text-green-600 justify-between mb-1"
-                            >
-                                Profile
-                            </Link>
-                        </li>
+                            <li>
+                                <Link
+                                    to="/user-email"
+                                    className="font-medium bg-green-50 hover:text-green-600 justify-between mb-1"
+                                >
+                                    name@flowbite.com
+                                </Link>
+                            </li>
+                            
+                            <li>
+                                <Link
+                                    to="/setting"
+                                    className="font-medium bg-green-50 hover:text-green-600 justify-between mb-1"
+                                >
+                                    Setting
+                                </Link>
+                            </li>
 
                             <li>
-                                <button className="inline-flex items-center justify-center whitespace-nowrap rounded-md border border-transparent bg-green-600 px-4 py-2 text-base font-medium text-white shadow-sm ">
+                                <Link
+                                    to="/user-profile"
+                                    className="font-medium bg-green-50 hover:text-green-600 justify-between mb-1"
+                                >
+                                    Profile
+                                </Link>
+                            </li>
+
+                            <li>
+                                <Link
+                                    to="/signOut"
+                                    className="inline-flex items-center justify-center whitespace-nowrap rounded-md border border-transparent bg-green-600 px-4 py-2 text-base font-medium text-white shadow-sm "
+                                >
                                     SignOut
-                                </button>
+                                </Link>
                             </li>
                         </ul>
                     </div>

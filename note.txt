@@ -15,6 +15,7 @@ It's a group project
         =>( @tailwind base;
             @tailwind components;
             @tailwind utilities;  )
+    => then follow tailwindcss doc
 
 4. Added daisyUi:(https://daisyui.com/components/navbar/)
     => 1st must be installed tailwindsss.
@@ -46,7 +47,11 @@ It's a group project
 /-----------------code part---------------/
 
 1. navbar 
-    => daisyUi +customize 
+    => flowbite + customize 
+
+1. banner 
+    => flowbite + customize 
+
 
 
 
