@@ -1,9 +1,15 @@
-import React from 'react';
+import React from "react";
+import Banner from "./Banner";
+import Navbar from "./Navbar";
 
 const Home = () => {
     return (
         <div>
-            This is home page
+        <Navbar />
+            {/* <NavbarTwo /> */ }
+        <Banner /> 
+            
+            
         </div>
     );
 };
