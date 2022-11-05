@@ -42,6 +42,8 @@ It's a group project
 7. google fonts (https://fonts.google.com/)
     => added some google font link index.js.
 
+8. font awesome 
+    => added some font awesome kit index.js.
 
 
 /-----------------code part---------------/
@@ -49,12 +51,22 @@ It's a group project
 1. navbar 
     => flowbite + customize 
 
-1. banner (https://tailwinduikit.com/components/E-commerce/Components/newsletters)
+2. banner (https://tailwinduikit.com/components/E-commerce/Components/newsletters)
     =>  tailwinduikit.com + customize 
 
+3. searchBar
+    => https://bbbootstrap.com/snippets/
+tailwind-css-search-bar-font-awesome-icons-30766165#
+    + => customize
+
+4. processing
 
 
 
+<img
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAB0dOEyWxi_KZ-vfgiVrfIBpWtMISitTGw&usqp=CAU"
+    className="w-full h-full absolute z-0 xl:block"
+/>
 
 
 
