@@ -63,5 +63,10 @@ tailwind-css-search-bar-font-awesome-icons-30766165#
 
 
 
+<img
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAB0dOEyWxi_KZ-vfgiVrfIBpWtMISitTGw&usqp=CAU"
+    className="w-full h-full absolute z-0 xl:block"
+/>
+
 
 
