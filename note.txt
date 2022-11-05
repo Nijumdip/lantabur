@@ -1,0 +1,60 @@
+It's a group project
+
+/---------------dependencies & library part --------------/
+
+1. 1st create a git collaboration .
+2. Create react app (yarn create react-app lantabur-frontend).
+
+3. Added tailwindCss:(https://tailwindcss.com/docs/installation)
+    => yarn add -D tailwindcss .
+    => npx tailwindcss init.
+    => In the  tailwind.config.js  file, the content must be changed inside the     
+       module.exports ( content: ["./src/**/*.{html,js}"],   ).
+
+    => In index.css/App.css added some directives:
+        =>( @tailwind base;
+            @tailwind components;
+            @tailwind utilities;  )
+    => then follow tailwindcss doc
+
+4. Added daisyUi:(https://daisyui.com/components/navbar/)
+    => 1st must be installed tailwindsss.
+    => yarn add daisyui
+    => In the  tailwind.config.js  file, the plugins must be changed inside the  
+    module.exports (  plugins: [require("daisyui")],   ).
+
+5. Added flowbite:(https://flowbite.com/docs/getting-started/introduction/)
+    => 1st must be installed tailwindsss and Node.js .
+    => yarn add flowbite
+    => In the  tailwind.config.js  file, the plugins must be changed inside the  
+        module.exports (  plugins: [require("daisyui" , "flowbite/plugin")],   ).
+
+    =>In index.html file this tag should be placed before the end of your <body> tag
+        (<script src="../path/to/flowbite/dist/flowbite.js"></script>)
+
+     => In the  tailwind.config.js  file, the content must be changed inside the  
+    module.exports ( content: ["./src/**/*.{html,js}", "./node_modules/flowbite/**/*.js"],   )
+
+   
+6. yarn add react-router-dom@6 
+    => added browserRouter index.js
+
+7. google fonts (https://fonts.google.com/)
+    => added some google font link index.js.
+
+
+
+/-----------------code part---------------/
+
+1. navbar 
+    => flowbite + customize 
+
+1. banner (https://tailwinduikit.com/components/E-commerce/Components/newsletters)
+    =>  tailwinduikit.com + customize 
+
+
+
+
+
+
+
