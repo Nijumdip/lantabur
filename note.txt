@@ -49,12 +49,11 @@ It's a group project
 1. navbar 
     => flowbite + customize 
 
-1. banner 
-    =>  + customize 
+1. banner (https://tailwinduikit.com/components/E-commerce/Components/newsletters)
+    =>  tailwinduikit.com + customize 
 
-    
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsfZ_bMvxSXD_ak00mEo1S7QoeQBHfkG3-tA&usqp=CAU
+
 
 
 
