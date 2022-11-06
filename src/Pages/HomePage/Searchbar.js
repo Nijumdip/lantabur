@@ -4,8 +4,8 @@ const Searchbar = () => {
     return (
         <div className=" flex flex-wrap  justify-around items-center my-10">
             <div>
-                <h1 className="text-4xl font-medium leading-9 text-center">
-                    All Topics of <span className="text-green-500">LANTABUR</span> 
+                <h1 className="text-4xl font-medium text-center">
+                    All Topics of <span className="text-green-600">LANTABUR</span> 
                 </h1>
             </div>
             <div>

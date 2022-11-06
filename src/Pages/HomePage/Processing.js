@@ -3,8 +3,8 @@ import React from "react";
 const Processing = () => {
     return (
         <div className="py-10">
-            <h1 className="text-4xl font-semibold text-green-600 mb-4 leading-9 text-center">
-            Just Few Steps to Start
+            <h1 className="text-4xl font-medium  mb-5 leading-9 text-center">
+            Just Few Steps to Start <span className="text-green-600"> LANTABUR</span>
             </h1>
             <div className=" w-full h-80 bg-Emerald-600 relative flex items-center justify-center">
                 <img
@@ -13,7 +13,7 @@ const Processing = () => {
                     className="w-full h-full absolute z-0 xl:block"
                 />
 
-                <div class="relative px-4 mt-72 ">
+                <div class="relative px-4 mt-96 ">
                     <div class="bg-white p-6 rounded-lg shadow-lg">
                         <div class="flex items-baseline">
                             <span class="bg-teal-200 text-teal-800 text-xs px-2 inline-block rounded-full  uppercase font-semibold tracking-wide">
