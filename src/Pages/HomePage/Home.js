@@ -1,5 +1,6 @@
 import React from "react";
 import Banner from "./Banner";
+import HeroSection from "./HeroSection";
 import Navbar from "./Navbar";
 import Processing from "./Processing";
 import Searchbar from "./Searchbar";
@@ -10,6 +11,7 @@ const Home = () => {
         <Navbar />
         <Banner /> 
         <Searchbar />
+        <HeroSection />
         <Processing />
             
         </div>
