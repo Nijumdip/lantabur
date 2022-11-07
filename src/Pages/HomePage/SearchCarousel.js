@@ -36,10 +36,10 @@ const SearchCarousel = () => {
             <Carousel.Item>
                 <img
                     width="100%"
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYpY3b55xoRlgtjuvL2MeBgfC_VXxxLiWPzg&usqp=CAU"
+                    src="https://i.ibb.co/CM1FnCH/images.jpg"
                     alt=""
                 />
-            </Carousel.Item>
+            </Carousel.Item>        
 
             <Carousel.Item>
                 <img
@@ -56,7 +56,7 @@ const SearchCarousel = () => {
             <Carousel.Item>
                 <img
                     width="100%"
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMPKEExNzS5xONtL8ejiS_GZlGH2g9ngYmg&usqp=CAU"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYpY3b55xoRlgtjuvL2MeBgfC_VXxxLiWPzg&usqp=CAU"
                     alt=""
                 />
             </Carousel.Item>

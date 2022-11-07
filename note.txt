@@ -59,13 +59,14 @@ It's a group project
 tailwind-css-search-bar-font-awesome-icons-30766165#
     + => customize
     
-## added Carousel (https://react-grid-carousel.vercel.app/#use-case-in-real-world)
+4. added Carousel (https://react-grid-carousel.vercel.app/#use-case-in-real-world)
     => yarn add react-grid-carousel --save
 
-4. processing
+5. processing
+    => https://ordinarycoders.com/blog/article/17-tailwindcss-cards 
+    + =>
 
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUnrI23W5_2nBZRZr4d0eW3wKk2FJeRvHLYA&usqp=CAU
 
 
 
