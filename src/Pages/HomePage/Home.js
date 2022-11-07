@@ -3,6 +3,7 @@ import Banner from "./Banner";
 import Navbar from "./Navbar";
 import Processing from "./Processing";
 import Searchbar from "./Searchbar";
+import SearchCarousel from "./SearchCarousel";
 
 const Home = () => {
     return (
@@ -10,6 +11,7 @@ const Home = () => {
         <Navbar />
         <Banner /> 
         <Searchbar />
+        <SearchCarousel />
         <Processing />
             
         </div>

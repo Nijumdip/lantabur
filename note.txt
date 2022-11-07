@@ -58,15 +58,20 @@ It's a group project
     => https://bbbootstrap.com/snippets/
 tailwind-css-search-bar-font-awesome-icons-30766165#
     + => customize
+    
+## added Carousel (https://react-grid-carousel.vercel.app/#use-case-in-real-world)
+    => yarn add react-grid-carousel --save
 
 4. processing
 
 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUnrI23W5_2nBZRZr4d0eW3wKk2FJeRvHLYA&usqp=CAU
 
-<img
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAB0dOEyWxi_KZ-vfgiVrfIBpWtMISitTGw&usqp=CAU"
-    className="w-full h-full absolute z-0 xl:block"
-/>
+
+
+
+
+
 
 
 
