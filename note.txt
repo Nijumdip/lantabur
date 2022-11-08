@@ -64,7 +64,7 @@ tailwind-css-search-bar-font-awesome-icons-30766165#
 
 5. processing
     => https://ordinarycoders.com/blog/article/17-tailwindcss-cards 
-    + =>
+    
 
 6. heroSection
     => https://tailwindui.com/components/ecommerce/components/promo-sections
