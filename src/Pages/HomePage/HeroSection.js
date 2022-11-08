@@ -11,7 +11,7 @@ const HeroSection = () => {
                             Services We Provide
                         </h1>
                         <p class="mt-4 text-xl text-green-900">
-                            <span className="text-green-600">One App with thousands of Benefits</span> 
+                            <span className="text-green-600">One App with thousands of Benefits </span>  
                             Globally expedite sticky platforms whereas end-to-end vortals. Quickly
                             engage client-centric web services. Grow premier ideas rather than
                             bricks-and-clicks strategic theme areas distributed for stand-alone web
