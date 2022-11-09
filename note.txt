@@ -68,8 +68,18 @@ tailwind-css-search-bar-font-awesome-icons-30766165#
 
 6. heroSection
     => https://tailwindui.com/components/ecommerce/components/promo-sections
-    
 
+7. 
+    => 
+
+8. 
+    => 
+
+9. 
+    => 
+
+10. subscription
+    => https://tailwindui.com/components/ecommerce/components/promo-sections
 
 
 
