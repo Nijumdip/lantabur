@@ -3,7 +3,7 @@ import HeroCards from "./HeroCards";
 
 const HeroSection = () => {
     return (
-        <div class="relative overflow-hidden bg-white my-10 shadow-2xl shadow-green-900">
+        <div class="relative overflow-hidden bg-white my-10 py-10">
             <div class="pt-16 pb-80 sm:pt-24 sm:pb-40 lg:pt-40 lg:pb-48">
                 <div class="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
                     <div class="sm:max-w-lg">
