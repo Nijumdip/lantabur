@@ -82,7 +82,7 @@ tailwind-css-search-bar-font-awesome-icons-30766165#
     => https://tailwindui.com/components/ecommerce/components/promo-sections
 
 
-
+https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_5_marketing_background.png
 
 
 

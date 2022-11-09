@@ -1,5 +1,8 @@
 import React from "react";
 import Banner from "./Banner";
+import DownloadApp from "./DownloadApp";
+import Footer from "./Footer";
+import FooterPage from "./FooterPage";
 import HeroSection from "./HeroSection";
 import Navbar from "./Navbar";
 import Processing from "./Processing";
@@ -15,6 +18,9 @@ const Home = () => {
             <Searchbar />
             <Processing />
             <Subscription />
+            <DownloadApp />
+            <Footer />
+            <FooterPage />
         </div>
     );
 };
