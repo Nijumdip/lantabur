@@ -3,8 +3,8 @@ import SearchCarousel from "./SearchCarousel";
 
 const Searchbar = () => {
     return (
-        <div className='bg-green-50 shadow-2xl shadow-green-900 py-16'>
-            <div className=" flex flex-wrap  justify-around items-center my-10">
+        <div className='bg-green-50  pt-20 pb-24'>
+            <div className=" flex flex-wrap  justify-around items-center mb-10">
                 <div>
                     <h1 className="text-4xl font-medium text-center">
                         All Topics of <span className="text-green-600">LANTABUR</span>

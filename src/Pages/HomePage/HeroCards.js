@@ -99,7 +99,7 @@ const HeroCards = () => {
                                 HireDev
                                 </h4>
                                 <p className="mb-2 leading-normal">
-                                This will be a developer hiring platform
+                                It's a developer hiring platform
                                 </p>
                                 <div className="p-4">
                                 </div>
