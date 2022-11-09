@@ -18,6 +18,8 @@ const Home = () => {
             <Searchbar />
             <Processing />
             <Subscription />
+
+            {/*customer review */}
             <DownloadApp />
             <Footer />
             <FooterPage />
